@@ -1,0 +1,12 @@
+{
+  "name": "myprogram",
+  "main": "index.ts",
+  "dependencies": {
+    "mylib": "file:../mylib",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.2"
+  }
+}

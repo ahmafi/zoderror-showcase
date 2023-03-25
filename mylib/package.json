@@ -1,0 +1,11 @@
+{
+  "name": "mylib",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
